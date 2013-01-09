@@ -1,0 +1,5 @@
+A sample for the Typesafe Stack (http://typesafe.com/stack).
+
+Scala sample project with multiple moduels using Scala and SBT.
+
+To run and test it use SBT invoke: 'sbt run'
