@@ -1,6 +1,5 @@
 import sbt._
 import Keys._
-import com.github.siasia.WebPlugin.webSettings
 
 object Resolvers {
   val typesafeReleases = "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
@@ -62,7 +61,7 @@ object Dependencies {
   // val akka = "com.typesafe.akka" %% "akka-actor" % "2.1.0"
 }
 
-object $name;format="Camel"$Build extends Build
+object $name;format="Camel"$Build extends Build {
 
   import Dependencies._
   import BuildSettings._
