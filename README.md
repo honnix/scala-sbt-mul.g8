@@ -6,8 +6,6 @@ A [giter8] template for [Scala] projects with multiple modules using [sbt].
 License
 -------
 
-Copyright 2012 Typesafe, Inc.
-
 Licensed under the [Apache License, Version 2.0][apache2] (the "License"); you
 may not use this software except in compliance with the License. You may obtain
 a copy of the License at:
